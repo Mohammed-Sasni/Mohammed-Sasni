@@ -11,9 +11,7 @@ Freelance Wordpress Web Developer @ Fiverr
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammed-sasni/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/sasni_saheed?igsh=ZTh2MzhvYXU5NTFz) [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/share/PRKCwDJfERpJepRn/?mibextid=qi2Omg)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Sinhala.
-- Here is my Blog Websites :
-<br />🔸InnerCircleTech : [Visit Site](https://innercircletech.com/)
-<br />🔸Travelergama    : [Visit Site](https://travelergama.com/)
+
 
 
 ### My Skills In
