@@ -8,16 +8,23 @@ Explore my projects to see how tech meets creativity! </p>
 
 ## 🧑‍💻 About Me
 
-
+<img align="right" width="370" height="290" src="https://www.gabrielcorralcardenas.com/content/images/2024/03/web3.gif">
 <p>I'm <b>Mohammed Sasni</b>, a passionate and creative tech enthusiast with a strong foundation in both development and design. I bring a unique blend of technical expertise and visual creativity through my work as a:
 
 - Full Stack Developer – Building secure, scalable, and efficient web applications
 - WordPress Web Developer – Designing dynamic and responsive websites tailored for performance
 - UI/UX & Graphic Designer – Crafting user-focused designs with clean, modern aesthetics
 
+ 
+
 I enjoy developing innovative digital solutions that combine functionality, security, and seamless user experience. With a deep interest in both technology and design, I’m constantly exploring new tools, frameworks, and best practices to stay ahead in the ever-evolving tech landscape. I have 03+ Years Experience in Web Development & I am a Freelance Wordpress Web Developer at **Fiverr**
 
+
+
+
 Explore my repositories to discover my latest projects, collaborations, and personal experiments.
+
+
 
 - Here is my [Portfolio](https://portfolio-under-constract-sasni-asm.netlify.app/)                                                 
 - I am looking to collaborate on CyberSecurity/ML/AI
