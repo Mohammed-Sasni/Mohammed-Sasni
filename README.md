@@ -11,9 +11,9 @@ Explore my projects to see how tech meets creativity! </p>
 <img align="right" width="370" height="290" src="https://www.gabrielcorralcardenas.com/content/images/2024/03/web3.gif">
 <p>I'm <b>Mohammed Sasni</b>, a passionate and creative tech enthusiast with a strong foundation in both development and design. I bring a unique blend of technical expertise and visual creativity through my work as a:
 
-- Full Stack Developer – Building secure, scalable, and efficient web applications
-- WordPress Web Developer – Designing dynamic and responsive websites tailored for performance
-- UI/UX & Graphic Designer – Crafting user-focused designs with clean, modern aesthetics
+- Full Stack Developer :– Building secure, scalable, and efficient web applications
+- WordPress Web Developer :– Designing dynamic and responsive websites tailored for performance
+- UI/UX & Graphic Designer :– Crafting user-focused designs with clean, modern aesthetics
 
  
 
