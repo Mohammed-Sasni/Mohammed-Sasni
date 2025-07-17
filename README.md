@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Mohammed Sasni
 
 Freelance Wordpress Web Developer @ Fiverr
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://cdn.dribbble.com/userupload/23379424/file/original-50d3ae73eb06aa464eee78018d0555bf.gif">
 - 🔭 Here is my [Portfolio](https://portfolio-under-constract-sasni-asm.netlify.app/)                                                 
 - 👾 I am currently pursuing a Bachelor degree in Cyber Security
 - 🌱 I am currently learning Artificial Intelligence
