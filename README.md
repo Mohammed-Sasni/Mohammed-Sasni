@@ -9,7 +9,7 @@ Explore my projects to see how tech meets creativity! </p>
 ## 🧑‍💻 About Me
 
 
-<p>I'm Mohammed Sasni, a passionate and creative tech enthusiast with a strong foundation in both development and design. I bring a unique blend of technical expertise and visual creativity through my work as a:
+<p>I'm <b>Mohammed Sasni</b>, a passionate and creative tech enthusiast with a strong foundation in both development and design. I bring a unique blend of technical expertise and visual creativity through my work as a:
 
 - Full Stack Developer – Building secure, scalable, and efficient web applications
 - WordPress Web Developer – Designing dynamic and responsive websites tailored for performance
