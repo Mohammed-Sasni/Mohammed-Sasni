@@ -26,7 +26,7 @@ Explore my repositories to discover my latest projects, collaborations, and pers
 
 
 
-- Here is my [Portfolio](https://portfolio-under-constract-sasni-asm.netlify.app/)                                                 
+- Here is my [Portfolio](https://asms-devfolio.netlify.app/)                                                 
 - I am looking to collaborate on CyberSecurity/ML/AI
 - Ask me about Tech
 - How to reach me :
